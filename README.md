@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning projects like ARIMA, random forest.
 - 📫 How to reach me bjiruwala.work@gmail.com
+- oufno;urwebd;ofubrwoeg
+- 
 
 
 
