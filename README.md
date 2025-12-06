@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @burhan-jiru
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning projects like ARIMA, random forest.
-- 📫 How to reach me bjiruwala.work@gmail.com
-- oufno;urwebd;ofubrwoeg
-- 
 
 
+Burhanuddin Jiruwala
+Business Intelligence Analyst | Power BI Developer | Azure Data Engineer
 
-kjbikuvbikhviyvihkh
+📧 bjiruwala.work@gmail.com
+🔗 LinkedIn: linkedin.com/in/burhan-jiru-533a17118/
 
+SPECIALIZATION:
+Power BI Dashboards • Data Modelling • DAX • ETL • Azure Data Engineering • KPI Reporting
 
 <!---
 burhan-jiru/burhan-jiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
